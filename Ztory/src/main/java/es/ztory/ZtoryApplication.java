@@ -1,0 +1,13 @@
+package es.ztory;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ZtoryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ZtoryApplication.class, args);
+	}
+
+}
